@@ -1,6 +1,6 @@
 ### netease-lrc-downloader
 根据163key为网易云的音乐文件提取ID和下载歌词的脚本
-[!预览图](https://github.com/Webpage-gh/netease-lrc-downloader/raw/refs/heads/main/preview.png)
+![预览图，描述了三个子命令的示例输出](https://github.com/Webpage-gh/netease-lrc-downloader/raw/refs/heads/main/preview.png)
 用法：安装`exiftool` `openssl` `jq`，下载`music.sh`，cd后执行
 bash music.sh [命令] [-q] [-f] (ID|文件路径)
 
